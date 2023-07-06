@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlfaShivamKumar
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Masters in Computer Applications Specialization in Data Science
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning
+-  I’m interested in Data Science 
+-  I’m currently learning Masters in Computer Applications Specialization in Data Science
+-  I’m looking to collaborate on Data Science and Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/hi-15022001shivam-kumar
 
 <!---
